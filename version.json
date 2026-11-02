@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/NTF-ZEYZ/rongjihui-releases/releases/download/v1.0.94/rongjihui-v94-arm64.apk",
-    "build":  94,
-    "version":  "1.0.94",
-    "notes":  "去掉登录页演示账号提示；反馈入口；管理员删帖。"
+    "apk":  "https://github.com/NTF-ZEYZ/rongjihui-android/releases/download/v1.0.100/rongjihui-v1.0.100-arm64.apk",
+    "build":  100,
+    "version":  "1.0.100",
+    "notes":  "P2P 传图、服务器中转回退、返图保存、兽聚自动同步。"
 }
